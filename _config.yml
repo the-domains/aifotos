@@ -1,0 +1,28 @@
+name: aifotos
+favicon: null
+layout_spectrum: 0.25975802005268633
+typography_spectrum: 0.4721835332456976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5350639207754284
+  lightness: 0.07128495094366372
+  saturation: 0.21388328727334738
+  rhythmicContrast: 0.32012861873954535
+purpose: []
